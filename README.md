@@ -36,6 +36,6 @@
   The most valuable of these opportunities definitely was the chance to combine my job with working alongside and learning from many other way more experienced IT specialists - developers, networking technicians, cyber security experts, etc. The gained knowledge and experience they provide is immeasurably helpful.
   <br><br>
   
-  <small>If you're looking for my projects, you won't find any. All my work has been done in private org repositories for a long time now, the only public projects are generally really old school projects that are were bad :(<small>
+  <small>Most my work has been done in private org repositories for a long time now, though I have made some projects public if anybody needs them, notably, the vue-calendar package<small>
   <br>
 </li>
